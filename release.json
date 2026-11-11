@@ -1,0 +1,19 @@
+{
+  "sourceCommit": "3ad444734ba89c7e69dcd11709347efa5a802f47",
+  "basePath": "/tripcanvas-demo/",
+  "apiBase": "https://tripcanvas-api.onrender.com/api/v1",
+  "node": "v24.21.0",
+  "npm": "11.19.0",
+  "lockfileSha256": "38f2cfe4017c96f73358eb6ea8ad9f2ba221c9e21e1737376ce2e719649d0eb6",
+  "files": {
+    "assets/coffee.jpg": "476c8d47942ee68f59f1a38d642a9a72dafaeda7ac8e21fbda6cf7a279347097",
+    "assets/forest.jpg": "76cf234d5ab6838674392d074a346ddab936168de60a2fe46607bffb052ef0b6",
+    "assets/index-B3EAqRGk.css": "09cd537317884edeaaada487428473202414cee3e0bae13d211f37adbf8f0c4f",
+    "assets/index-BDAZ4JYk.js": "f60dcdce2278dcd85cfe1e85841873668f265c654ababcfa4a7ff34147320b97",
+    "assets/lake.jpg": "eeb6bb30f2fbe447c1cf0f8bf9210339550e20fc864990c6b42d73c740f81ca3",
+    "assets/museum.jpg": "3921c4b8581ad0ebe6639ecc323396f60d9623d2370b42168fcf9e4dad087b85",
+    "assets/travel.jpg": "26f1167b6c07e4d67cd90c469390ebb310bfa082a7d86e0e3758f616176378c7",
+    "favicon.svg": "bbfe0fa048ff1bc7c0d0875727dad062d12eb34ce7bdf5bed0061872fb7094be",
+    "index.html": "d1710ab992f02f4ededab992d27ecea9599962f0f3fd753a18833ec940aa694e"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "64b467bff6db081e9d02c3ec87fae2fce04fb79f",
+  "sourceCommit": "c4776b39882f523e7142a2ac9b9c8cd62ee4760e",
   "basePath": "/tripcanvas-demo/",
   "apiBase": "https://tripcanvas-api.onrender.com/api/v1",
   "node": "v24.21.0",
